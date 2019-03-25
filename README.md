@@ -1,2 +1,2 @@
 # HTML-Test-Thingy
-e
+use /test.html to see the actual thing

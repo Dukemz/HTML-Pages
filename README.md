@@ -1,2 +1,4 @@
-# HTML-Test-Thingy
-use https://dukemz.github.io/HTML-Test-Thingy/test.html to see the actual thing
+# My HTML Pages
+List of published HTML files:
+
+1. index.html (By Dukemz)

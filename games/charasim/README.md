@@ -1,5 +1,7 @@
 # Sans Simulator by gmr516
 
-## Want to play? [[CLICK HERE]](https://dukemz.github.io/games/charasim)
+## Play now! [[CLICK HERE]](https://dukemz.github.io/games/charasim/game.html)
 
-Play the original version: [[CLICK HERE]](http://gmr516.github.io/sans-simulator/)
+### How to Play: [[CLICK HERE]](https://dukemz.github.io/games/charasim/help.html)
+
+Link to creator: [[CLICK HERE]](http://github.com/gmr516)

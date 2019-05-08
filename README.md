@@ -9,4 +9,4 @@ List of published HTML files: (click to view)
 
 
 
-## [Click here to view the games collection.](https://dukemz.github.io/HTML-Pages/games)
+### [Click here to view the games collection.](https://dukemz.github.io/HTML-Pages/games)

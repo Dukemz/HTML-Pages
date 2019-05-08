@@ -9,6 +9,4 @@ List of published HTML files: (click to view)
 
 
 
-## Games collection
-
-[1. Chara Fight Sim (By gmr516)](https://dukemz.github.io/HTML-Pages/games/charasim)
+## [Click here to view the games collection.](https://dukemz.github.io/HTML-Pages/games)

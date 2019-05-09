@@ -7,6 +7,6 @@ List of published HTML files: (click to view)
 
 [3. Swimming Tips (By LJAldy)](https://dukemz.github.io/HTML-Pages/SwimmingTips)
 
-
+[4. James R Thingy (By royaljames99)](https://dukemz.github.io/HTML-Pages/JamesRTHINGY)
 
 ### Click [here](https://dukemz.github.io/HTML-Pages/games) to view the games collection.

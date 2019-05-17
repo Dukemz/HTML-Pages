@@ -11,4 +11,4 @@ List of published HTML files: (click to view)
 
 ### Click [here](https://dukemz.github.io/HTML-Pages/games) to view the games collection.
 
-### Click [here](https://dukemz.github.io/HTML-Pages/GitHubPages) to view the GitHub Pages markdown instructions.
+#### Click [here](https://dukemz.github.io/HTML-Pages/GitHubPages) to view the GitHub Pages markdown instructions.

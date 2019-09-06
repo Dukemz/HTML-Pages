@@ -6,3 +6,5 @@ console.log("Just don't tell RubRub I'm here. He can't know.");
 
 // console.log("What do you mean who's RubRub?");
 // console.log("Uhh, nevermind.")
+
+// bad time is 3512

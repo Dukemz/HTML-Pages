@@ -9,14 +9,9 @@ List of published HTML files: (click to view)
 
 [4. James R Thingy (By royaljames99)](https://dukemz.github.io/HTML-Pages/JamesRTHINGY)
 
+[5. A Random Cat Website (By cattycats)](https://dukemz.github.io/HTML-Pages/catweb)
+
 ### Click [here](https://dukemz.github.io/HTML-Pages/games) to view the games collection.
 
 #### Click [here](https://dukemz.github.io/HTML-Pages/GitHubPages) to view the GitHub Pages markdown instructions.
 
-.
-
-.
-
-.
-
-[click for weirdness](https://dukemz.github.io/medievalmayhem)
